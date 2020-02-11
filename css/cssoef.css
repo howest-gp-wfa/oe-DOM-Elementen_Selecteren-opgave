@@ -1,0 +1,12 @@
+label {
+    width: 200px;
+    display: inline-block;
+}
+
+button {
+    margin-bottom: 15px;
+}
+
+.vetjes {
+    font-weight: bold;
+}
