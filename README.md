@@ -1,4 +1,4 @@
-# Herhaling variabelen en DOM-elementen
+# Variabelen en DOM-elementen
 ## Werking
 ### Opstarten
 - In txtId wordt de tekst 'txtNaam' ingevuld
