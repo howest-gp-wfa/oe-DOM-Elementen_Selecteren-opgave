@@ -1,4 +1,3 @@
-oe07-variabelen_dom-start
 # Herhaling variabelen en DOM-elementen
 ## Werking
 ### Opstarten
