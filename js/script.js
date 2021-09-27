@@ -1,17 +1,17 @@
 "use strict";
 
 
-window.addEventListener('load',Initieer);
+window.addEventListener('load', initialize);
 
-function Initieer(){
-
-}
-
-function ToonVerbergElementViaId(){
+function initialize() {
 
 }
 
-function ToonVerbergElementViaSelector(){
+function showAndHideElementById() {
+
+}
+
+function showAndHideElementBySelector() {
 
 }
 
